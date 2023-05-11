@@ -29,10 +29,10 @@ Inescapable Tower - Action-Platformer, сделанный как тестово�
 ![](https://i.yapx.ru/RNSFD.png)
 
 ## Видео <a name = "video"></a>
-[Ссылка на видео](https://www.youtube.com/watch?v=wkFnmv2t3BU)
+[Ссылка на видео](https://youtu.be/zz_Dwrg6AxA)
 
 ## Установка <a name = "setup"></a>
-1. Скачать и распаковать [архив](https://drive.google.com/file/d/1_CWvXDwr1zEIq9zWPd5YpnEu1aPdC-3s/view?usp=sharing) с билдом игры
+1. Скачать и распаковать [архив](https://drive.google.com/file/d/1ZXIRsdfyVBgmTxsIHczOkUlmwAqh9GiG/view?usp=sharing) с билдом игры
 2. Запустить InescabapleTower.exe
 
 ## Запуск проекта из исходного кода <a name = "source"></a>
